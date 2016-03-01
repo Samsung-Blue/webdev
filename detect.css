@@ -33,9 +33,27 @@ text-align: center;
 }
 h3{
 text-align: center;
+text-decoration: none;
 }
 .align{
 text-align: left;
 font-size: 18px;
 }
+.pic{
+height: 440px;
+width: 550px;
+display: inline-block;
+margin: 50px 50px 50px 50px;
+text-align: center;
+}
+.image{
+height: 400px;
+width: 550px:
+}
+a{
+text-decoration: none;
+color: white;
+}
+h4{
+text-align: center;
 }
