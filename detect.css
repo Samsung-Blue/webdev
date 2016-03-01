@@ -1,0 +1,41 @@
+.heading{
+height: 60px;
+width: 150px;
+border-radius: 5px;
+display: inline-block;
+margin: auto;
+text-align: center;
+background-color: black;
+color: white;
+font-size: 18px;
+}
+img{
+height: 120px;
+width: 200px;
+}
+#tag{
+color: d3d3d3;
+font-size: 20px;
+}
+#main{
+text-align: center;
+font-size: 25px;
+margin-left: 50px;
+margin-right: 50px;
+}
+.main{
+height: 400px;
+width: 300px;
+display: inline-block;
+margin-left: 65px;
+margin-right: 65px;
+text-align: center;
+}
+h3{
+text-align: center;
+}
+.align{
+text-align: left;
+font-size: 18px;
+}
+}
