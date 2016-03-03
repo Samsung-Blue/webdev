@@ -1,5 +1,5 @@
-$document.ready(function(){
-  $(#slidedown).hover(function(){
-    $(#slide).slideToggle("fast");
+$(document).ready(function(){
+  $("#slidedown").onClick(function(){
+    $("#slide").slideToggle("fast");
    });
 });

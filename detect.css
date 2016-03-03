@@ -24,7 +24,7 @@ margin-left: 50px;
 margin-right: 50px;
 }
 .main{
-height: 400px;
+height: 450px;
 width: 300px;
 display: inline-block;
 margin-left: 65px;
@@ -71,4 +71,16 @@ margin-left: 600px;
 width: 700px;
 height: 600px;
 margin: 50px 325px 5px 325px;
+}
+.writing{
+margin-top: 50px;
+font-size: 20px;
+font-family: Garamond,Verdana;
+color: 3d3d29;
+}
+.link{
+color: black;
+text-decoration: underline;
+text-align: left;
+font-size: 20px;
 }
