@@ -84,3 +84,13 @@ text-decoration: underline;
 text-align: left;
 font-size: 20px;
 }
+.testi{
+display:inline-block;
+height: 250px;
+width: 250px;
+}
+.testiwriting{
+font-size: 18px;
+font-family: Verdana;
+color: black;
+}
